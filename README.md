@@ -1,0 +1,1 @@
+This file contains the basic commands in pandas for data analysis , in this report the jupyter notebook is asking about how to read adataset,how to initially explore the data using basic pandas functions,like head,tail functions.
